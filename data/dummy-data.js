@@ -10,8 +10,12 @@ export const CATEGORIES = [
   new Category('c6', 'Exotic', '#41d95d'),
   new Category('c7', 'Breakfast', '#9eecff'),
   new Category('c8', 'Asian', '#b9ffb0'),
+  new Category('c10', 'Summer', '#47fced'),
+  new Category('c11', 'Luxurious', '#ffff00'),
+  new Category('c12', 'Little known.', '#ff8000'),
+  new Category('c13', 'Spicy', '#ff0000'),
   new Category('c9', 'French', '#ffc7ff'),
-  new Category('c10', 'Summer', '#47fced')
+  new Category('c14', 'Dubai', '#666600'),
 ];
 
 export const MEALS = [
@@ -52,7 +56,7 @@ export const MEALS = [
     'Toast Hawaii',
     'affordable',
     'simple',
-    'https://cdn.pixabay.com/photo/2018/07/11/21/51/toast-3532016_1280.jpg',
+    'https://upload.wikimedia.org/wikipedia/commons/b/b7/Toast_Hawaii_RZ.jpg',
     10,
     [
       '1 Slice White Bread',
@@ -78,7 +82,7 @@ export const MEALS = [
     'Classic Hamburger',
     'pricey',
     'simple',
-    'https://cdn.pixabay.com/photo/2014/10/23/18/05/burger-500054_1280.jpg',
+    'https://upload.wikimedia.org/wikipedia/commons/4/4a/Impossible_Burger_-_Gott%27s_Roadside-_2018_-_Stierch.jpg',
     45,
     [
       '300g Cattle Hack',
@@ -140,7 +144,7 @@ export const MEALS = [
     'Salad with Smoked Salmon',
     'luxurious',
     'simple',
-    'https://cdn.pixabay.com/photo/2016/10/25/13/29/smoked-salmon-salad-1768890_1280.jpg',
+    'https://upload.wikimedia.org/wikipedia/commons/8/8c/Salmon_sashimi_Yuichiro_Haga.jpeg',
     15,
     [
       'Arugula',
@@ -265,7 +269,7 @@ export const MEALS = [
     'Chocolate Souffle',
     'affordable',
     'hard',
-    'https://cdn.pixabay.com/photo/2014/08/07/21/07/souffle-412785_1280.jpg',
+    'https://upload.wikimedia.org/wikipedia/commons/6/69/Soufle_Di_Cioccolato.jpg',
     45,
     [
       '1 Teaspoon melted Butter',
@@ -311,7 +315,7 @@ export const MEALS = [
     'Asparagus Salad with Cherry Tomatoes',
     'luxurious',
     'simple',
-    'https://cdn.pixabay.com/photo/2018/04/09/18/26/asparagus-3304997_1280.jpg',
+    'https://upload.wikimedia.org/wikipedia/commons/8/8d/Cr%C3%A8me_d%27asperge_%C3%A0_la_truffe.jpg',
     30,
     [
       'White and Green Asparagus',
